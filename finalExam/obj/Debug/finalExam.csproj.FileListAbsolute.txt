@@ -1,0 +1,12 @@
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Final Exam\finalExam\bin\Debug\finalExam.exe.config
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Final Exam\finalExam\bin\Debug\finalExam.exe
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Final Exam\finalExam\bin\Debug\finalExam.pdb
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Final Exam\finalExam\obj\Debug\finalExam.csproj.AssemblyReference.cache
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Final Exam\finalExam\obj\Debug\finalExam.csproj.SuggestedBindingRedirects.cache
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Final Exam\finalExam\obj\Debug\finalExam.Form1.resources
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Final Exam\finalExam\obj\Debug\finalExam.Form2.resources
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Final Exam\finalExam\obj\Debug\finalExam.Properties.Resources.resources
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Final Exam\finalExam\obj\Debug\finalExam.csproj.GenerateResource.cache
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Final Exam\finalExam\obj\Debug\finalExam.csproj.CoreCompileInputs.cache
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Final Exam\finalExam\obj\Debug\finalExam.exe
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Final Exam\finalExam\obj\Debug\finalExam.pdb
